@@ -1545,7 +1545,7 @@ class EnclosurePlugin(octoprint.plugin.StartupPlugin, octoprint.plugin.TemplateP
                     return
 
 
-__plugin_name__ = "Enclosure Plugin"
+__plugin_name__ = "Enclosure Plugin Test"
 
 
 def __plugin_load__():
