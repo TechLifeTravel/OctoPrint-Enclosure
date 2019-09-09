@@ -7,14 +7,14 @@
 plugin_identifier = "enclosure"
 
 # The plugin's python package, should be "octoprint_<plugin identifier>", has to be unique
-plugin_package = "octoprint_enclosure"
+plugin_package = "octoprint_enclosure_test"
 
 # The plugin's human readable name. Can be overwritten within OctoPrint's internal data via __plugin_name__ in the
 # plugin module
-plugin_name = "OctoPrint-Enclosure"
+plugin_name = "OctoPrint-Enclosure-test"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "4.12"
+plugin_version = "4.12.beta"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
